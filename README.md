@@ -30,4 +30,4 @@ OR add the following remote repository to download the JAR automatically:
 		</repository>
 	</repositories>
 
-To download a pre-built copy of the application please visit: [http://hardisonbrewing.org/x/FQBi]
+To download a pre-built copy of the application please visit: [http://hardisonbrewing.org/x/FQBi](http://hardisonbrewing.org/x/FQBi)
