@@ -29,3 +29,5 @@ OR add the following remote repository to download the JAR automatically:
 			<url>http://repo.hardisonbrewing.org/nexus/content/repositories/snapshots/</url>
 		</repository>
 	</repositories>
+
+To download a pre-built copy of the application please visit: [http://hardisonbrewing.org/x/FQBi]
