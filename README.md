@@ -1,6 +1,6 @@
 Usage Notes
 =====
-NARD (Not A Real Debugger) is a simple JAVA application for printing out the BlackBerry device System.out through a USB connection.
+NARD (Not A Real Debugger, just a log printer) is a simple JAVA application for printing out the BlackBerry device System.out through a USB connection.
 
 To run the application you can execute the `/run.sh` script
 
