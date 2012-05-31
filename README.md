@@ -8,7 +8,7 @@ OR to execute it manually use: `java -Djava.library.path="lib" -d32 -jar target/
 Once the application is running simply connect your device and the System.out should start to print out. You can disconnect the device and reconnect without have to restart the NARD application.
 
 # Build or Download
-To build this you need to use Maven. You can also find a pre-built copy under the included [nard.zip](/blob/master/nard.zip).
+To build this you need to use Maven. You can also find a pre-built copy under the included [nard.zip](blob/master/nard.zip).
 
 The JDWP is a required dependency. It is included with this project under the `/docs` folder.
 To install the JAR to your local Maven repository you can execute the `/docs/install.sh` script
